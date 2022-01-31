@@ -26,8 +26,8 @@ The `example-app` folder contains an example of web app. To run it:
 
 ## First review session
 
-- [ ] Geometric Transformations: 2D/3D rotations, translations, similarities, etc
-  - Team: TBD
+- [x] Geometric Transformations: 2D/3D rotations, translations, similarities, etc
+  - Team: Roger Lin, Taian Song
 - [x] Image Formation: camera models, camera extrinsic and intrinsic parameters
   - Team: Sean MacKenzie, Rami Dabit and Peter Li.
 - [x] Point operators and Neighborhood operators
